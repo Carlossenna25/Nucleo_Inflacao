@@ -35,4 +35,4 @@ R, dplyr, tidyr, ggplot2, sidrar
 
 ## 🧠 Autor
 **Carlos Senna**  
-[LinkedIn]((https://www.linkedin.com/in/carlos-sena-0776381a5/]) | [GitHub](https://github.com/Carlossenna25)
+[LinkedIn](https://www.linkedin.com/in/carlos-sena-0776381a5/) | [GitHub](https://github.com/Carlossenna25)
